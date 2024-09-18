@@ -20,3 +20,9 @@ Energy of an image is the distance of the image from the data manifold as shown 
 
 # Results
 ![MuSE performance](imgs/fastMRI_performance.png)
+
+# Pretrained checkpoint
+i-MuSE checkpoints can be found here [Google drive](https://drive.google.com/drive/folders/1ebMu5_oeHdpaSaS5Pf6GkdqYMnGxwcQl?usp=sharing)
+
+# Paper 
+J. R. Chand and M. Jacob, "Multi-Scale Energy (MuSE) Framework for Inverse Problems in Imaging," IEEE Transactions on Computational Imaging, vol. 10, pp. 1250-1265, 2024, doi: 10.1109/TCI.2024.3449101 ([link](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10645311))
