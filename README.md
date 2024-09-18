@@ -14,7 +14,8 @@ Although both schemes improve convergence and accuracy, the e-MuSE MAP solution 
 resulting in faster convergence and improved performance. We compare the performance of the proposed MuSE models in the context of Magnetic Resonance (MR) image recovery. The results demonstrate that the multi-scale framework yields a MAP reconstruction comparable in quality to the End-to-End (E2E) trained models, while being relatively unaffected by the changes in the forward model.
 
 
-# Results
-
 ## Visualization of the implicit and explicit energy functions
 ![i-MuSE of an image is the distance of the image from the data manifold](imgs/i_Muse_quad.png)
+
+# Results
+![MuSE performance](imgs/fastMRI_performance.png)
