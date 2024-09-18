@@ -15,6 +15,7 @@ resulting in faster convergence and improved performance. We compare the perform
 
 
 ## Visualization of the implicit and explicit energy functions
+Energy of an image is the distance of the image from the data manifold as shown below:
 ![i-MuSE of an image is the distance of the image from the data manifold](imgs/i_Muse_quad.png)
 
 # Results
