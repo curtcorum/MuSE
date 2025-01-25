@@ -24,5 +24,10 @@ Energy of an image is the distance of the image from the data manifold as shown 
 # Pretrained checkpoint
 i-MuSE checkpoints can be found here [Google drive](https://drive.google.com/drive/folders/1ebMu5_oeHdpaSaS5Pf6GkdqYMnGxwcQl?usp=sharing)
 
+#Instructions to download example data
+1. Download the example data from here [Google drive](https://drive.google.com/drive/folders/1qR4q3a9usZgWdV5u2CkwaHe2tITug3XE?usp=sharing) 
+2. Create a new folder named "Example_data" inside the MuSE folder. 
+3. Copy the downloaded  folder "T2_big_pickle" and paste it inside the Example_data" folder. 
+
 # Paper 
 J. R. Chand and M. Jacob, "Multi-Scale Energy (MuSE) Framework for Inverse Problems in Imaging," IEEE Transactions on Computational Imaging, vol. 10, pp. 1250-1265, 2024, doi: 10.1109/TCI.2024.3449101 ([link](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10645311))

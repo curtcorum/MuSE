@@ -96,8 +96,8 @@ class DataGenBrain(Dataset):
     start_sub & num_sub: total number of subjects to load
     acc: acceleration factor
     """
-    def __init__(self,  start_sub=0, num_sub=2, device=None, acc=4.0, data_path='/home/jrikhabchand/fastmri/Github_code/Example_data/'):
-        #replace data_path with the appropriate path
+    def __init__(self,  start_sub=0, num_sub=2, device=None, acc=4.0, data_path='Example_data/'):
+        
         self.path = data_path
         self.start_sub = start_sub
         self.num_sub = num_sub
