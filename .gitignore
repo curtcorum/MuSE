@@ -1,4 +1,4 @@
 *.pt
 __pycache__
 T2_big_pickle
-.pickle
+*.pickle
