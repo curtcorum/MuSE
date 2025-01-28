@@ -32,6 +32,8 @@ Energy of an image is the distance of the image from the data manifold as shown 
 3. Copy the downloaded  folder "T2_big_pickle" and paste it inside the "Example_data" folder.
 
 # Jupyter Notebook
+Requires jupyter, jupyter-lab or equivalent environment to run. I.e. jupyter not included.
+
 Run the jupyter notebook "test.ipynb" to replicate results.
 
 # Paper 
